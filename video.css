@@ -1,0 +1,68 @@
+#contenue{
+	width:970px;
+	height:480px;
+	margin:auto;
+	background:#e0e0e0;
+}
+#lecteur{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+#video {
+  z-index: 1;
+}
+
+#controls {
+  position: relative;
+  z-index: 2;
+  background: #ccc;
+  padding: 3px;
+}
+
+#time {
+  width: 505px;
+  display: inline-block;
+}
+
+#btn_volume {
+  margin-left: 5px;
+}
+
+#volume {
+  float: right;
+  width: 100px;
+  margin-top: 12px;
+}
+
+#fullscreen {
+  float: right;
+  margin-top: 5px;
+}
+#conteneur{
+	background-color: #e0e0e0;
+	height:40px;
+	width:970px;
+	margin:auto;
+	background-position:center;
+}
+
+#short{
+	background-color: #e0e0e0;
+	height:400px;
+	width:970px;
+	margin:auto;
+	right:400px;
+}
+
+#snapback{
+	background-color: #e0e0e0;
+	height:440px;
+	width:920px;
+	margin:auto;
+	margin-top:0px;
+	padding-left: 40px;
+	padding-right: 10px;
+}

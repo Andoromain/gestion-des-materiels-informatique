@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "zone protégée" 
+AuthUserFile c:/wamp/www/http/users/passwords 
+AuthGroupFile c:/wamp/www/http/users/groups 
+Require group admins
